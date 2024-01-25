@@ -18,5 +18,5 @@
 ### 일정 추가 및 삭제
 <div align="center">
 <img alt="add" src="https://github.com/jmsyaya/Todo/assets/63501931/bbbee24e-c02f-4470-9f68-270124ac9bd1" width="400">
-  <img alt="delete" src="https://user-images.githubusercontent.com/57563053/160284524-e1292623-76d8-4666-80ee-2cf10b44a367.png" width="400">
+  <img alt="delete" src="https://github.com/jmsyaya/Todo/assets/63501931/d68b6232-9591-42b2-b6fe-43f49b65ed93" width="400">
 </div>
