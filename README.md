@@ -1,5 +1,5 @@
 # Todolist
-
+- 2022/11/08 ~ 2022/11/30
 ## Todolist
 
 - Todolist는 React를 이용해서 만든 플래너입니다.
